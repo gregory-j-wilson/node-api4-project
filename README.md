@@ -10,6 +10,8 @@ You are allowed, and **encouraged**, to collaborate with other peers. Please fol
 
 Pick any API, could be one of your past projects, and deploy it to `heroku`. Once deployed, send the URL to the TL for your group.
 
+[x] I have deployed my API to heroku.  You can find it at: https://lotrdata.herokuapp.com/api/users
+
 ## Stretch Goal
 
-- add support for environment variables using `.env` files. You can use the [dotenv](https://www.npmjs.com/package/dotenv) npm module.
+- [x] add support for environment variables using `.env` files. You can use the [dotenv](https://www.npmjs.com/package/dotenv) npm module.
